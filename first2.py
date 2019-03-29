@@ -1,2 +1,3 @@
-this is Non
-sjssje
+
+def first():
+  print('this is my second')
